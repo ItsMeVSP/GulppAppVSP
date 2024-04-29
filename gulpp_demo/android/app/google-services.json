@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533059939080",
+    "project_id": "lmaoded-57eda",
+    "storage_bucket": "lmaoded-57eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533059939080:android:ed590da3d4c325e8fd1abd",
+        "android_client_info": {
+          "package_name": "com.example.gulpp_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqE1R2rfADBksKucZG84vDJpN4jjcNws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533059939080:android:2c2f803b197ea304fd1abd",
+        "android_client_info": {
+          "package_name": "com.mycompany.gulpp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqE1R2rfADBksKucZG84vDJpN4jjcNws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
